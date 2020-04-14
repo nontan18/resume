@@ -1,6 +1,6 @@
 # Nozomu Miyamoto
 nozomu.miyamoto@sfc.or.jp  
-[Twitter(Private)](https://twitter.com/nontan_univ) | [Twitter(Official)](https://twitter.com/NozomuMiyamoto) | [GitHub](https://github.com/nontan18)  
+[Twitter(Private)](https://twitter.com/nontan_univ) † [Twitter(Official)](https://twitter.com/NozomuMiyamoto) † [GitHub](https://github.com/nontan18)  
 
 ## EDUCATION
 ### **Keio University, Fujisawa** | *April 2016 - March 2021*

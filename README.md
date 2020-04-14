@@ -19,7 +19,7 @@ Left the Faculty of Economics.
 - Developing ["Commons"](https://commons.ruskinics.com/) as a community platform by oneself.(August 2018 - Present)
 - Founded [Shonan Fujisawa Projects, NPO](https://www.npo-homepage.go.jp/npoportal/detail/014004133). (August 2019 - Present)
 - Awarded as a representative by SoftBank in [the WOW PITCH Kanagawa Student Business Plan Contest](https://www.pref.kanagawa.jp/osirase/0604/kanagawabiz-con/pitch2019.html). (January 2020 - Feburary 2020)
-- [Launching "SFC-LT", a scholarship to buy a student's 3 minutes for 10,000 yen, and raised 511,400 yen from 126 supporters by crowdfunding.](https://camp-fire.jp/projects/view/186699) (March 2020)
+- [Launched "SFC-LT", a scholarship to buy a student's 3 minutes for 10,000 yen, and raised 511,400 yen from 126 supporters by crowdfunding.](https://camp-fire.jp/projects/view/186699) (March 2020)
 - [Held SFC Final Presentation 2020, which was based on the concept of  "SFCらしい卒業式", with no audience while the graduation ceremony was cancelled by the effects of COVID-19, and broadcasted this live online. In one week, the archived video was viewed by 8,000 people.](https://youtu.be/yuVtFI7YfbA) (March 2020)
 - [Redesigned "Take Off Rally 2020", which was a graduation party canceled by the effects of COVID-19, to a virtual reality event, and raised 291,000 yen in 8 hours by crowdfunding to pay cancellation fee for the venue.](https://camp-fire.jp/projects/view/245150) (March 2020)
 - Working on my thesis, "Elucidation the Principles of Social Contract by Computer Simulation" as a bachelor's. (September 2018 - Present)
